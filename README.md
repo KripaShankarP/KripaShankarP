@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 **jhkkjhj** 
  - [ ] item one
- - [ ] item 2 
+ - [x] item 2 
 
