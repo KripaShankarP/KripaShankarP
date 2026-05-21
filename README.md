@@ -1,4 +1,4 @@
-# Hi 👋 I'm Kripa
+# Hi 👋 I'm Kripa Shankar Pandey
 
 💻 Full Stack Developer  
 🌱 Learning Next.js & NestJS  
