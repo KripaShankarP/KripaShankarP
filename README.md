@@ -1,38 +1,67 @@
-# Hi there 👋
+# Hi 👋, I'm Kripa Shankar Pandey
 
+### Full Stack Developer | MBA (Finance & IT)
 
-**KripaShankarP/KripaShankarP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **Next.js, NestJS, PostgreSQL**
+- 💻 Interested in **Full Stack Development**
+- 🚀 Building projects using **React, Node.js, Prisma**
+- 📫 Reach me at: kripashankerpandey1503@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Tech Stack
 
+### Frontend
+- React.js
+- Next.js
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
 
+### Backend
+- Node.js
+- Express.js
+- NestJS
 
-### h3 
+### Database
+- PostgreSQL
+- MongoDB
+- Prisma ORM
 
+---
 
+## 📌 Featured Projects
 
-- bullet point
-- 2nd bullet
+### 🛒 E-Commerce Website
+Full stack ecommerce project with:
+- Authentication
+- Cart System
+- Admin Dashboard
+- Payment Integration
 
-+ kghhg
-+ hkhjhkj
+### 🔐 Auth System
+Login/Register system using:
+- JWT
+- Cookies
+- Prisma
+- PostgreSQL
 
-1. kjhk
-2. fjgh
-3. hkhjhk
+---
 
-*italic*
+## 📊 GitHub Stats
 
-**jhkkjhj** 
- - [ ] item one
- - [x] item 2 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Portfolio: https://yourportfolio.com
+
+---
+
+⭐ From [KripaShankar](https://github.com/YOUR_USERNAME)
